@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Flower
+comment1.params=
+comment1.target=Flower()
+comment10.params=quantity
+comment10.target=void\ setQuantity(int)
+comment11.params=
+comment11.target=void\ describe()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=name\ color\ price\ quantity
+comment2.target=Flower(java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=color
+comment6.target=void\ setColor(java.lang.String)
+comment7.params=
+comment7.target=double\ getPrice()
+comment8.params=price
+comment8.target=void\ setPrice(double)
+comment9.params=
+comment9.target=int\ getQuantity()
+numComments=13
